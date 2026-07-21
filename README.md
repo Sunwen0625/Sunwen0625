@@ -9,17 +9,30 @@
 </picture>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,tailwind,js,vue,vite,python,fastapi,postgres,docker,discord,git,github,opencv" alt="Tech Stack" />
-  <br>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="NumPy" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/streamlit.png" alt="Streamlit" width="40" height="40"/>
+
+  ### 前端
+  <img src="https://skillicons.dev/icons?i=tailwind,js,vue,vite" />
+
+  ### 後端
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker" />
+
+  ### 手機
+  <img src="https://skillicons.dev/icons?i=androidstudio" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png" alt="Android" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/dart.png" alt="Dart" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png" alt="Flutter" width="40" height="40"/>
+
+  ### AI / 資料科學
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="NumPy" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/streamlit.png" alt="Streamlit" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/langchain_icon.png" alt="LangChain" width="40" height="40"/>
+
+  ### 工具 / DevOps
+  <img src="https://skillicons.dev/icons?i=vscode,discord,git,github,opencv" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/githubactions.png" alt="GitHub Actions" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="Ubuntu" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/langchain_icon.png" alt="LangChain" width="40" height="40"/>
+
 </div>
 
 
